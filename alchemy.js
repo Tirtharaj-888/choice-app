@@ -38,7 +38,7 @@ function showFinalResult(ps,cs){
     function(){
         finRes.style.display = "none";
         rst.style.display = "none";
-        boxClickers();
+        location.reload()
     })
 }
 

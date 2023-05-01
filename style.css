@@ -1,0 +1,35 @@
+.red-box{
+    position: absolute;
+    border:1px solid red;
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
+.yellow-box{
+    position: absolute;
+    border:1px solid yellow;
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    left: 115px;
+}
+.blue-box{
+    position: absolute;
+    border:1px solid blue;
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    display:none;
+}
+.green-box{
+    position: absolute;
+    border:1px solid green;
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    left: 115px;
+    display:none;
+}
+.final, .restart{
+    display:none;
+}
